@@ -8,6 +8,7 @@ A website that offers fitness training services
 * CSS
 
 ## Website
+https://github.com/Hyperrnic/run-buddy
 
 ## Contribution
 Made with ❤️ by [Nicholas Hernandez]
