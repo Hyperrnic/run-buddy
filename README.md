@@ -10,4 +10,4 @@ A website that offers fitness training services
 ## Website
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by [Nicholas Hernandez]
